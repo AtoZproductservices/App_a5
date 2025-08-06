@@ -1,6 +1,8 @@
 Assignment 5
 Build an Interactive BMI Calculator
 <img width="1440" height="854" alt="image" src="https://github.com/user-attachments/assets/8ae05a16-eeaf-4390-a691-1e23a4f7b42b" />
+<img width="1440" height="852" alt="image" src="https://github.com/user-attachments/assets/61e9328b-3b59-49b6-9f47-2368f64c2e99" />
+
 Objective:
 Create an interactive BMI (Body Mass Index) calculator that makes use of arithmetic operations and Flutter UI elements like Slider, Container, Text, etc.
 This assignment is focused on helping you understand user interaction, real-time calculations, and updating the UI using user inputs.
